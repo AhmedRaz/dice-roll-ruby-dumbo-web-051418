@@ -4,5 +4,4 @@
 
 def roll
   roll = rand(1..6)
-  binding.pry 
 end
